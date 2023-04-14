@@ -1,4 +1,4 @@
-FROM amazoncorretto:17-al2-full
+FROM amazoncorretto:17-al2023-jdk
 
 ARG RAM_MAX=6G
 ARG RAM_MIN=4G
